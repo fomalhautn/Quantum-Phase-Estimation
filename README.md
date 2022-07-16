@@ -1,4 +1,4 @@
-# Quantum-Phase-Estimation
+# Quantum Phase Estimation
 
 <table>
     <tr>
